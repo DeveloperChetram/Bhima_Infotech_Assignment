@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.local
+.env.*
+dist/
+build/
+*.log
+.DS_Store
+*.local
+coverage/
+tmp/
+*.tmp
+package-lock.json
+.npm
+.cache
+
